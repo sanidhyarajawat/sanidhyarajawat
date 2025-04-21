@@ -2,21 +2,28 @@
   <img src="https://github.com/sanidhyarajawat/sanidhyarajawat/blob/master/Sanidhya Rajawat.jpg" alt="header"/>
 </div>
 
-<p align="center">
-  A highly resourceful computer programmer and well-rounded IT professional with over three years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
-</p>
+### 👋 Hi, I’m Sanidhya
 
-<hr>
+I'm a senior engineer who loves building scalable backend systems and crafting clean developer experiences.
 
-<h2 align="center"> Weapons in my Arsenal </h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java%20-%2300D9FF.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript%20-%231572B6.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" />&nbsp;&nbsp;
-</p>
-<p align="center">AWS, HTML&CSS, MongoDB, MySQL, Oracle SQL, Docker, Kubernetes, Git, Github, Bitbucket, Apache, Nginx.</p>
+---
 
-<hr>
+#### ⚙️ Tech I Work With
+
+- **Languages & Frameworks:** Python, Django, TypeScript, JavaScript
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **DevOps & Infra:** Docker, Kubernetes, AWS, CI/CD (GitHub Actions, Jenkins)
+- **Data & Workflows:** Apache Airflow, Spark, DBT, Airbyte
+- **Architecture:** REST, WebSockets, GraphQL, System Design, TDD
+
+---
+
+#### 💡 I enjoy:
+- Designing robust system architectures
+- Optimizing backend performance and developer workflows
+- Building tools and platforms that make teams move faster
+
+---
 
 <h2  align="center"> Reach me on </h2>
 <p align="center">
@@ -25,6 +32,3 @@
   <a href="mailto:sanidhyarajawat58@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
